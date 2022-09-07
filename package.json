@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/camiloestrada69/repo-package/issues"
   },
-  "homepage": "https://github.com/camiloestrada69/repo-package#readme"
+  "homepage": "https://github.com/camiloestrada69/repo-package#readme",
+  "publishConfig": {
+    "@camiloestrada69:registry": "https://npm.pkg.github.com"
+  }
 }
